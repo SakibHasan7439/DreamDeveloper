@@ -356,7 +356,7 @@
 
 .second-container {
   position: absolute;
-  width: 257px;
+  width: 246px;
   height: 320px;
   top: 0;
 }
@@ -365,7 +365,7 @@
   background: url(Project1-Image/text-backgorund.png);
   background-repeat: no-repeat;
   width: 100%;
-  height: 87px;
+  height: 74px;
 }
 
 .text-element {
@@ -426,7 +426,7 @@ opacity: 0.9;
 
 .third-container {
   position: absolute;
-  width: 257px;
+  width: 247px;
   height: 320px;
   top: 0;
 }
@@ -449,7 +449,7 @@ opacity: 0.9;
 
 .forth-container {
   position: absolute;
-  width: 257px;
+  width: 246px;
   height: 320px;
   top: 0;
 }
