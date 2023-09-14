@@ -347,19 +347,16 @@
   margin-bottom: 80px;
 }
 
-.image-section-margin {
-  margin: -10px;
-}
 
 .buildings-width {
   width: 25%;
   position: relative;
-  padding: 0 10px;
+  padding: 0 2px;
 }
 
 .second-container {
   position: absolute;
-  width: 246px;
+  width: 257px;
   height: 320px;
   top: 0;
 }
@@ -367,7 +364,7 @@
 .text-area {
   background: url(Project1-Image/text-backgorund.png);
   background-repeat: no-repeat;
-  width: 96%;
+  width: 100%;
   height: 87px;
 }
 
@@ -429,7 +426,7 @@ opacity: 0.9;
 
 .third-container {
   position: absolute;
-  width: 246px;
+  width: 257px;
   height: 320px;
   top: 0;
 }
@@ -452,7 +449,7 @@ opacity: 0.9;
 
 .forth-container {
   position: absolute;
-  width: 246px;
+  width: 257px;
   height: 320px;
   top: 0;
 }
@@ -731,9 +728,10 @@ opacity: 0.9;
 .unordered-list {
   list-style-type: none;
   overflow: hidden;
-  padding-top: 30px;
+  padding-top: 46px;
   margin-left: 40px;
-  
+  margin-top: 0;
+  margin-bottom: 0; 
 }
 
 .navigation-area {
